@@ -1,8 +1,8 @@
 <h1><img src="https://github.com/xwertxy/xwertxy/assets/143252455/68a7dde2-2ade-4f1a-8ede-4554d617e099" height="46" width="46" align="left">xwertxy 👨‍💻</h1> 
 
-[![](https://visitcount.itsvg.in/api?id=xwertxy&icon=0&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=xRodzXD&icon=0&color=6)](https://visitcount.itsvg.in)
 
-👋 Hello, I am Ace, also known as **code deceiver**. 
+👋 Hello, I am Rods, also known as **code deceiver**. 
 
 - I am also prominent for abusing Minecraft in any way whatsoever possible. 😂
 
@@ -16,15 +16,15 @@
 
 ✨ **I make project to build something awesome!**
 
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/xwertxy) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/xwertxy) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/xwertxy) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/xwertxy) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/xRodzXD) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/xRodzXD) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/xRodzXD) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/xRodzXD) 
 
 <details>
 <summary>📊 Spoiler: GitHub Stats</summary>
   
-![](https://github-readme-stats.vercel.app/api?username=xwertxy&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=xwertxy&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xwertxy&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-profile-trophy.vercel.app/?username=xwertxy&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-![](https://github-contributor-stats.vercel.app/api?username=xwertxy&limit=5&theme=flat&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api?username=xRodzXD&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=xRodzXD&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xRodzXD&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-profile-trophy.vercel.app/?username=xRodzXD&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-contributor-stats.vercel.app/api?username=xRodzXD&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 </details>
